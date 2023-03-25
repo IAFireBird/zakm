@@ -1,0 +1,19 @@
+.bod{
+    background-image: url("s2-copy.jpg");
+    background-size: cover;
+    opacity:100%;
+    margin-top:0px;
+    margin-left:0px;
+    margin-right:0px;
+}
+
+.man{
+    background-color:rgba(162, 143, 246, 0.501);
+    background-size: cover;
+    opacity:100%;
+    margin-top:0px;
+    margin-left:0px;
+    margin-right:0px;
+    margin-bottom:100px;
+}
+
